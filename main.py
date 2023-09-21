@@ -14,6 +14,10 @@ pyautogui.press('enter')
 
 # entrar na minha área de trabalho
 pyautogui.hotkey('winleft', 'd')
+pyautogui.hotkey('winleft', 'd')
+pyautogui.hotkey('winleft', 'd')
+pyautogui.hotkey('winleft', 'd')
+pyautogui.hotkey('winleft', 'd')
 
 print(pyautogui.position())
 
